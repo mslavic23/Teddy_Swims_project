@@ -1,5 +1,5 @@
 # **Teddy Swims - project website**
-## Overview
+## Description
 This is a project for the Multimedia Tehnology class in HTML and CSS. This website serves as a example for upgraded components to make the site more dynamic and engaging.
 
 ## Features
